@@ -7,3 +7,5 @@ Night Activated PIR Motion Sensor circuit design is centered around a passive in
 The PIR motion detector module is used here with an added ambient light detection (day/night) feature using LDR. The task of LDR is to detect the approaching of human person based on the principle of light/dark sensing.
 
 The main objective of this project is to implement a system for power saving. When the room’s light is switched off or goes off due to power cut, the LED in circuit glows automatically. For the power control system, a detection method is used for a power ON/OFF automatically in respective place.
+
+https://sites.google.com/view/smart-night-lights/home#h.16e2qbqtwnwb 
